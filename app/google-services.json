@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929384590445",
+    "firebase_url": "https://idristravelmantic.firebaseio.com",
+    "project_id": "idristravelmantic",
+    "storage_bucket": "idristravelmantic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929384590445:android:f3a37a8e82635aeb",
+        "android_client_info": {
+          "package_name": "com.idris.travelmantic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929384590445-qbj8kp9ohdg7au84j9l0hu34265mddpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idris.travelmantic",
+            "certificate_hash": "9de25ce539ab64cde349d21b6ee7fa35af6967ad"
+          }
+        },
+        {
+          "client_id": "929384590445-viueblbk4v2d9i54bscf1vao4gedsblk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSPKCnPCkLYNr1CsYfaX0zGZ_GpTXnsNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929384590445-viueblbk4v2d9i54bscf1vao4gedsblk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
